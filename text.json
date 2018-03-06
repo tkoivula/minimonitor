@@ -1,0 +1,11 @@
+{
+    "refresh": 60,
+    "text": {
+      "big": "Big text.",
+	  "small": "This is small text.",
+	  "topleft": "tl",
+	  "topright": "tr",
+	  "bottomleft": "bl",
+	  "bottomright": "br"
+    }
+}
